@@ -8,3 +8,6 @@ Thank you!
 
 Applications for and an overview of 2023 are at: [https://aliceproject.dev](https://aliceproject.dev)
 Applications/registration for The Alice in Wondderland Project - Hacktoberfest 2023 edition open Monday, September 18, 2023.
+
+Please read CONTRIBUTING.md for information on how to get involved and what to expect.
+
